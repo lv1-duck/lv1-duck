@@ -1,4 +1,5 @@
 ### Notable Achievements
 
-<img src="cs50-cert.png" alt="CS50 Certificate" width="300"/>
+![CS50 Certificate](CS50P.png)
+
 

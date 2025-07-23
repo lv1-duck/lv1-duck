@@ -2,6 +2,8 @@
 
 I'm a perpetual learner with a growing interest in building useful tools through open-source projects and practical programming.
 
+
+
 ---
 
 ## 🚀 Achievements & Certifications
@@ -13,14 +15,10 @@ I'm a perpetual learner with a growing interest in building useful tools through
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python/python.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kivy/kivy.svg" alt="Kivy" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux/linux.svg" alt="Linux" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite/sqlite.svg" alt="SQLite3" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c/c.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/cplusplus/cplusplus.svg" alt="C++" width="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github/github.svg" alt="GitHub" width="40" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,kivy,c,cpp,linux,sqlite" /></a>
 </p>
+
+
 
 ---
 
@@ -29,6 +27,8 @@ I'm a perpetual learner with a growing interest in building useful tools through
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lv1-duck&show_icons=true&theme=tokyonight)](https://github.com/lv1-duck)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lv1-duck&layout=compact&theme=tokyonight)](https://github.com/lv1-duck)
+
+
 
 ---
 

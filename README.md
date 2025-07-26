@@ -8,14 +8,14 @@ I'm a perpetual learner with a growing interest in building useful tools through
 
 ## 🚀 Achievements & Certifications
 
-- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/certificates/1bddb4d1-4d91-4250-8a76-aaaa1cff9631)
-
+- [CS50’s Introduction to Programming with Python]
+  
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,kivy,c,cpp,linux,sqlite" /></a>
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,c,cpp,linux,sqlite" /></a>
 </p>
 
 

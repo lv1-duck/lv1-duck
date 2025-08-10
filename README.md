@@ -15,7 +15,7 @@ I'm a perpetual learner and a tech enthusiast with a growing interest in buildin
 ## Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,c,cpp,linux,sqlite,html,css" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python,flask,cpp,linux,sqlite,html,css" /></a>
 </p>
 
 
